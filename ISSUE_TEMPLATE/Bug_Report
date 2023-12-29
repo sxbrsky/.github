@@ -23,9 +23,9 @@ about: Something is broken? 🔨
 #### How to reproduce
 
 <!--
-Provide steps to reproduce the bug.
-If possible, also add a code snippet with relevant configuration, entity mappings, DQL etc.
-Adding a failing Unit or Functional Test would help us a lot - you can submit one in a Pull Request separately, referencing this bug report.
+Provide steps to reproduce the behavior you are experiencing. Please try to keep
+this as short as possible. If able, create a reproducible script outside of any
+framework you are using. This will help us to quickly debug the issue.
 -->
 
 #### Expected behavior
